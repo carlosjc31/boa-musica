@@ -1,0 +1,46 @@
+{
+  "musicas": [
+    {
+      "id": 1,
+      "nome": "Boa Noite",
+      "autor": "Cristiano",
+      "genero": "Rock",
+      "ano": 2022
+    },
+    {
+      "id": 2,
+      "nome": "Boa Tarde",
+      "autor": "Cristiano",
+      "genero": "Rock",
+      "ano": 2022
+    },
+    {
+      "id": 3,
+      "nome": "Boa Manha",
+      "autor": "Cristiano",
+      "genero": "Rock",
+      "ano": 2022
+    },
+    {
+      "id": 4,
+      "nome": "Boa Noite 2",
+      "autor": "Cristiano",
+      "genero": "Rock",
+      "ano": 2022
+    },
+    {
+      "id": 5,
+      "nome": "Boa Tarde 2",
+      "autor": "Cristiano",
+      "genero": "Rock",
+      "ano": 2022
+    },
+    {
+      "id": 6,
+      "nome": "Boa Manha 2",
+      "autor": "Cristiano",
+      "genero": "Rock",
+      "ano": 2022
+    }
+  ]
+}

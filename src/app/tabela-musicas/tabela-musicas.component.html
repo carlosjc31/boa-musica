@@ -1,0 +1,22 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Nome</th>
+      <th scope="col">Artista</th>
+      <th scope="col">categoria</th>
+      <th scope="col">Ano</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let musica of musicas">
+      <th scope="row">{{musica.id}}</th>
+      <td>{{musica.name}}</td>
+      <td>{{musica.artista}}</td>
+      <td>{{musica.categoria}}</td>
+      <td>{{musica.ano}}</td>
+      <td scope="col">Ações</td>
+      <td><button class="btn btn-danger" (click)="delete(musica)">Editar</button></td>
+    </tr>
+  </tbody>
+</table>
